@@ -3,7 +3,7 @@
 This is my first GitHub repository.
 
 ## Skills
-- Python
+- C 
 - C++
 - DSA (Learning)
 
