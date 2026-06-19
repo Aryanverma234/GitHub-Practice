@@ -6,5 +6,6 @@ This is my first GitHub repository.
 - C 
 - C++
 - DSA (Learning)
+-AI/ML (Learning)
 
 Created by Aryan Verma
